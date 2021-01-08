@@ -7,3 +7,12 @@ clone this repository and install the package:<br>
 `$git clone https://github.com/jacobbriones1/GuessNumbers`<br>
 `$cd GuessNumbers`<br>
 `$pip install -e .`<br>
+
+## Running the environment
+```
+import gym 
+import guessing_game
+
+env = gym.make('NumberGuessing-v0')
+env.reset(size=5)
+```
