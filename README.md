@@ -4,6 +4,6 @@ Gym Environment for Guessing Multiple Numbers. Inspired by [GoodAI](https://www.
 
 ## Installation: 
 clone this repository and install the package:<br>
-`$git clone https://github.com/jacobbriones1/GuessNumbers`
-`$cd GuessNumbers`
-`$pip install -e .`
+`$git clone https://github.com/jacobbriones1/GuessNumbers`<br>
+`$cd GuessNumbers`<br>
+`$pip install -e .`<br>
